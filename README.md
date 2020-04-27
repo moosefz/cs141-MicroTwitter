@@ -7,7 +7,7 @@ This *Micro-Twitter* was created during the S2019 semester in CS141 - Algorithms
 
 Once compiled, users are prompted to "log-in". There is no database with logins as this is simply for a name capture. Once "logged-in", users are prompted with the following options:
 1. Create new Tweet
- - 140 character maximum tweet. Tweet is added to linked list with the username, date and time it was created.
+- 140 character maximum tweet. Tweet is added to linked list with the username, date and time it was created.
 2. Search Tweets
  - Searches the linked list for keywords relative to user input.
 3. Display Tweets

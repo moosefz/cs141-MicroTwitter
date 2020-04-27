@@ -17,4 +17,4 @@ Once compiled, users are prompted to "log-in". There is no database with logins 
 5. Load tweets from file
    - Tweets are loaded from an existing file (error checking is present)
 6. Exit
-
+   - Close program.

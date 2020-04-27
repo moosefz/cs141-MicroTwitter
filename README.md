@@ -1,5 +1,5 @@
 # cs141-MicroTwitter
-Micro-twitter - interactive menu, linked lists, file I/O in C
+Micro-Twitter - Mimics functionality of Twitter in the console. Use of File I/O, Linked Lists, Arrays, etc.
 
 ## Overview and Functionality
 
